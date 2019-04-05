@@ -1,0 +1,14 @@
+---
+title: "My website"
+author: "Allen Ansari"
+date: "April 4, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# My Wbsite
+
+# This is the home page
